@@ -105,8 +105,8 @@ h2.programs {
 
 /*programming*/
 .html        { width:90%;  animation:html 2s ease-out;       }
-.css         { width:95%;  animation:css 2s ease-out;        }
-.php         { width:70%;  animation:php 2s ease-out;        }
+.python         { width:95%;  animation:css 2s ease-out;        }
+.flutter         { width:70%;  animation:php 2s ease-out;        }
 .javascript  { width:50%;  animation:javascript 2s ease-out; }
 
 /*platforms*/
@@ -126,8 +126,8 @@ h2.programs {
 
 /*programming*/
 @keyframes html        { 0% { width:0px; } 100% { width:90%; }  }
-@keyframes css         { 0% { width:0px; } 100% { width:95%; }  }
-@keyframes php         { 0% { width:0px; } 100% { width:70%; }  }
+@keyframes python         { 0% { width:0px; } 100% { width:95%; }  }
+@keyframes flutter         { 0% { width:0px; } 100% { width:70%; }  }
 @keyframes javascript  { 0% { width:0px; } 100% { width:50%; }  }
 
 /*platforms*/
@@ -164,9 +164,9 @@ h2.programs {
   <div class="col">
     <h2 class="title">Programming</h2>
     <ul class="skill">
-      <li><span class="blueline html"></span><em>HTML</em></li>
-      <li><span class="blueline css"></span><em>CSS</em></li>
-      <li><span class="blueline php"></span><em>PHP</em></li>
+      <li><span class="blueline html"></span><em>HTML & CSS</em></li>
+      <li><span class="blueline python"></span><em>Python</em></li>
+      <li><span class="blueline flutter"></span><em>Flutter & Dart</em></li>
       <li><span class="blueline javascript"></span><em>Javascript</em></li> 
     </ul>
   </div>
