@@ -108,21 +108,18 @@ h2.programs {
 .css         { width:95%;  animation:css 2s ease-out;        }
 .php         { width:70%;  animation:php 2s ease-out;        }
 .javascript  { width:50%;  animation:javascript 2s ease-out; }
-.jquery      { width:30%;  animation:jquery 2s ease-out;     }
 
 /*platforms*/
 .wordpress   { width:80%;  animation:wordpress 2s ease-out;  }
 .prestashop  { width:60%;  animation:prestashop 2s ease-out; }
 .joomla      { width:40%;  animation:joomla 2s ease-out;     }
 .blogger     { width:70%;  animation:blogger 2s ease-out;    }
-.tridion      { width:60%;  animation:tridion 2s ease-out;     }
 
 /*programs*/
 .dreamweaver { width:90%;  animation:dreamweaver 2s ease-out;}
 .illustrator { width:30%;  animation:illustrator 2s ease-out;}
 .photoshop   { width:70%;  animation:photoshop 2s ease-out;  }
 .premiere    { width:50%;  animation:premiere 2s ease-out;   }
-.flash       { width:60%;  animation:flash 2s ease-out;      }
 
 
 @keyframes title      { 0% { opacity:0; } 100% { opacity:1; }  }
@@ -132,21 +129,18 @@ h2.programs {
 @keyframes css         { 0% { width:0px; } 100% { width:95%; }  }
 @keyframes php         { 0% { width:0px; } 100% { width:70%; }  }
 @keyframes javascript  { 0% { width:0px; } 100% { width:50%; }  }
-@keyframes jquery      { 0% { width:0px; } 100% { width:30%; }  }
 
 /*platforms*/
 @keyframes wordpress   { 0% { width:0px; } 100% { width:80%; }  }
 @keyframes prestashop  { 0% { width:0px; } 100% { width:60%; }  }
 @keyframes joomla      { 0% { width:0px; } 100% { width:40%; }  }
 @keyframes blogger     { 0% { width:0px; } 100% { width:70%; }  }
-@keyframes tridion      { 0% { width:0px; } 100% { width:60%; }  }
 
 /*programs*/
 @keyframes dreamweaver { 0% { width:0px; } 100% { width:90%; }  }
 @keyframes illustrator { 0% { width:0px; } 100% { width:30%; }  }
 @keyframes photoshop   { 0% { width:0px; } 100% { width:70%; }  }
 @keyframes premiere    { 0% { width:0px; } 100% { width:50%; }  }
-@keyframes flash       { 0% { width:0px; } 100% { width:60%; }  }
 
 /*media queries*/
 @media (max-width: 1200px){
@@ -174,27 +168,24 @@ h2.programs {
       <li><span class="blueline css"></span><em>CSS</em></li>
       <li><span class="blueline php"></span><em>PHP</em></li>
       <li><span class="blueline javascript"></span><em>Javascript</em></li> 
-      <li><span class="blueline jquery"></span><em>jQuery</em></li>
     </ul>
   </div>
     <div class="col">
-    <h2 class="platforms title">platforms</h2>
+    <h2 class="platforms title">Platforms</h2>
     <ul class="skill">
       <li><span class="greenline wordpress"></span><em>Wordpress</em></li>
       <li><span class="greenline prestashop"></span><em>Prestashop</em></li>
       <li><span class="greenline joomla"></span><em>Joomla</em></li>
       <li><span class="greenline blogger"></span><em>Blogger</em></li>
-      <li><span class="greenline tridion"></span><em>Tridion</em></li>
     </ul>
   </div>
     <div class="col">
-    <h2 class="programs title">programs</h2>
+    <h2 class="programs title">Programs</h2>
     <ul class="skill">
       <li><span class="redline dreamweaver"></span><em>Dreamweaver</em></li>
       <li><span class="redline illustrator"></span><em>Illustrator</em></li>
       <li><span class="redline photoshop"></span><em>Photoshop</em></li>
       <li><span class="redline premiere"></span><em>Premiere</em></li>
-      <li><span class="redline flash"></span><em>Flash</em></li>
     </ul>
   </div>
 </div>
