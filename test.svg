@@ -166,7 +166,7 @@ h2.programs {
     <ul class="skill">
       <li><span class="blueline html"></span><em>HTML CSS</em></li>
       <li><span class="blueline css"></span><em>Python</em></li>
-      <li><span class="blueline php"></span><em>Flutter & Dart</em></li>
+      <li><span class="blueline php"></span><em>Flutter Dart</em></li>
       <li><span class="blueline javascript"></span><em>Javascript</em></li> 
     </ul>
   </div>
