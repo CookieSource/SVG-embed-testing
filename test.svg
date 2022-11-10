@@ -2666,7 +2666,7 @@ body .panel p {
   <h2>Atmospheric pressure on Venus is 92 times greater than the Earth’s.</h2>
   <p>While its size and mass are similar to Earth, the small asteroids are crushed when entering its atmosphere, meaning no small craters lie on the surface of the planet. The pressure felt by a human on the surface would be equivalent to that experienced deep beneath the sea on Earth.</p>
   <br>
-</div>
+	  </br></div>
 <input class='read' id='readEarth' name='earthRead' type='radio'>
 <label class='closeBig' for='closeEarth'></label>
 <input class='read' id='closeEarth' name='earthRead' type='radio'>
