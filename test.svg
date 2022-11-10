@@ -2647,7 +2647,7 @@ body .panel p {
   <p>Even though the planet is small, Mercury is very dense. Each cubic centimetre has a density of 5.4 grams, with only the Earth having a higher density. This is largely due to Mercury being composed mainly of heavy metals and rock.</p>
   <h2>Mercury has wrinkles.</h2>
   <p>As the iron core of the planet cooled and contracted, the surface of the planet became wrinkled. Scientist have named these wrinkles, Lobate Scarps. These Scarps can be up to a mile high and hundreds of miles long.</p>
-  <br>
+	  <br></br>
 </div>
 <input class='read' id='readVenus' name='venusRead' type='radio'>
 <label class='closeBig' for='closeVenus'></label>
