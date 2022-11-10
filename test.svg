@@ -112,7 +112,7 @@ h2.programs {
 /*platforms*/
 .wordpress   { width:95%;  animation:wordpress 2s ease-out;  }
 .prestashop  { width:85%;  animation:prestashop 2s ease-out; }
-.joomla      { width:98%;  animation:joomla 2s ease-out;     }
+.joomla      { width:95%;  animation:joomla 2s ease-out;     }
 .blogger     { width:95%;  animation:blogger 2s ease-out;    }
 
 /*programs*/
@@ -133,7 +133,7 @@ h2.programs {
 /*platforms*/
 @keyframes wordpress   { 0% { width:0px; } 100% { width:95%; }  }
 @keyframes prestashop  { 0% { width:0px; } 100% { width:85%; }  }
-@keyframes joomla      { 0% { width:0px; } 100% { width:98%; }  }
+@keyframes joomla      { 0% { width:0px; } 100% { width:95%; }  }
 @keyframes blogger     { 0% { width:0px; } 100% { width:95%; }  }
 
 /*programs*/
