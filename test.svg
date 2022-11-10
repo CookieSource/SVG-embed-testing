@@ -2648,7 +2648,7 @@ body .panel p {
   <h2>Mercury has wrinkles.</h2>
   <p>As the iron core of the planet cooled and contracted, the surface of the planet became wrinkled. Scientist have named these wrinkles, Lobate Scarps. These Scarps can be up to a mile high and hundreds of miles long.</p>
 	  <br></br>
-</div>
+	  </div></img>
 <input class='read' id='readVenus' name='venusRead' type='radio'>
 <label class='closeBig' for='closeVenus'></label>
 <input class='read' id='closeVenus' name='venusRead' type='radio'>
