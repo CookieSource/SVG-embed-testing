@@ -2684,7 +2684,7 @@ body .panel p {
   <h2>There is only one natural satellite of the planet Earth.</h2>
   <p>As a percentage of the size of the body it orbits, the Moon is the largest satellite of any planet in our solar systm. In real terms, however, it is only the fifth largest natural satellite.</p>
   <br>
-</div>
+	  </br></div>
 <input class='read' id='readMars' name='marsRead' type='radio'>
 <label class='closeBig' for='closeMars'></label>
 <input class='read' id='closeMars' name='marsRead' type='radio'>
