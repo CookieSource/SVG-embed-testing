@@ -2772,7 +2772,7 @@ body .panel p {
   <p>Despite being smaller than Uranus, Neptune has a greater mass. Below its heavy atmosphere, Uranus is made of layers of hydrogen, helium, and methane gases. They enclose a layer of water, ammonia and methane ice. The inner core of the planet is made of rock.</p>
   <h2>The atmosphere of Neptune is made of hydrogen and helium, with some methane.</h2>
   <p>The methane absorbs red light, which makes the planet appear a lovely blue. High, thin clouds drift in the upper atmosphere.</p>
-</div>
+	</img></div>
 <input class='read' id='readPluto' name='plutoRead' type='radio'>
 <label class='closeBig' for='closePluto'></label>
 <input class='read' id='closePluto' name='plutoRead' type='radio'>
