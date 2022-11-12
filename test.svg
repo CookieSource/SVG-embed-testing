@@ -2701,7 +2701,7 @@ body .panel p {
   <h2>Mars has the largest dust storms in the solar systm.</h2>
   <p>They can last for months and cover the entire planet. The seasons are extreme because its elliptical (oval-shaped) orbital path around the Sun is more elongated than most other planets in the solar systm.</p>
 	  <br></br>
-</div>
+	</img></div>
 <input class='read' id='readJupiter' name='jupiterRead' type='radio'>
 <label class='closeBig' for='closeJupiter'></label>
 <input class='read' id='closeJupiter' name='jupiterRead' type='radio'>
