@@ -2719,7 +2719,7 @@ body .panel p {
   <h2>Jupiter orbits the Sun once every 11.8 Earth years.</h2>
   <p>From our point of view on Earth, it appears to move slowly in the sky, taking months to move from one constellation to another.</p>
 	  <br></br>
-</div>
+	</img></div>
 <input class='read' id='readSaturn' name='saturnRead' type='radio'>
 <label class='closeBig' for='closeSaturn'></label>
 <input class='read' id='closeSaturn' name='saturnRead' type='radio'>
