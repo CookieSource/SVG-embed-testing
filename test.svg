@@ -2736,8 +2736,8 @@ body .panel p {
   <p>Its polar diameter is 90% of its equatorial diameter, this is due to its low density and fast rotation. Saturn turns on its axis once every 10 hours and 34 minutes giving it the second-shortest day of any of the solar systm’s planets.</p>
   <h2>Saturn orbits the Sun once every 29.4 Earth years.</h2>
   <p>Its slow movement against the backdrop of stars earned it the nickname of “Lubadsagush” from the ancient Assyrians. The name means “oldest of the old”.</p>
-  <br>
-</div>
+	  <br></br>
+	</img></div>
 <input class='read' id='readUranus' name='uranusRead' type='radio'>
 <label class='closeBig' for='closeUranus'></label>
 <input class='read' id='closeUranus' name='uranusRead' type='radio'>
